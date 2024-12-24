@@ -1,0 +1,113 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  background-color: #363644;
+  color: #cfcfd7;
+}
+
+.app {
+  display: flex;
+  flex-direction: column;
+}
+
+.header {
+  background-color: #1f1f27;
+  color: #cfcfd7;
+  padding: 15px 0;
+}
+
+.logo {
+  text-align: center;
+}
+
+.nav-list {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+}
+
+.nav-list li {
+  margin: 0 15px;
+}
+
+.nav-list a {
+  color: #cfcfd7;
+  text-decoration: none;
+}
+
+.hero {
+  height: 400px;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  color: #cfcfd7;
+  text-align: center;
+}
+
+.hero-content {
+  z-index: 1;
+}
+
+.hero-title {
+  font-size: 2.5rem;
+}
+
+.hero-description {
+  font-size: 1.25rem;
+}
+
+.hero-button,.FormButton {
+  padding: 10px 20px;
+  background-color: rgba(255, 255, 255, 0.8);
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.hero-button:hover {
+  background-color: white;
+}
+
+.section-title {
+  text-align: center;
+  margin: 20px 0;
+}
+
+.services, .gallery, .contact, .order, .testimonials {
+  padding: 20px;
+  text-align: center;
+}
+
+.service, .testimonial {
+  margin: 15px 0;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  align-items: center; 
+}
+
+.form input, .form select, .form textarea {
+  margin: 10px 0;
+  padding: 10px;
+  width: 300px;
+  border: 3px solid #575757;
+  border-radius: 5px;
+  background-color: rgba(255, 255, 255, 0.8);
+}
+
+.footer {
+  background-color: #1f1f27;
+  color: white;
+  text-align: center;
+  padding: 15px 0;
+}
