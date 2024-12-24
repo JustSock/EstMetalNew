@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/JustSock/EstMetalNew/static/css/main.7320f6b9.css",
+    "main.js": "/JustSock/EstMetalNew/static/js/main.511cccf0.js",
+    "static/js/488.49bc0a36.chunk.js": "/JustSock/EstMetalNew/static/js/488.49bc0a36.chunk.js",
+    "static/media/Hero.png": "/JustSock/EstMetalNew/static/media/Hero.e13cb3b85cc3c89a92de.png",
+    "index.html": "/JustSock/EstMetalNew/index.html",
+    "main.7320f6b9.css.map": "/JustSock/EstMetalNew/static/css/main.7320f6b9.css.map",
+    "main.511cccf0.js.map": "/JustSock/EstMetalNew/static/js/main.511cccf0.js.map",
+    "488.49bc0a36.chunk.js.map": "/JustSock/EstMetalNew/static/js/488.49bc0a36.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7320f6b9.css",
+    "static/js/main.511cccf0.js"
+  ]
+}
