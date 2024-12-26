@@ -11,7 +11,7 @@ const Testimonials = () => {
         <div className="testimonial">
           <img className="testimonial-img" src={review1}/>
           <div className="testimonial-review">
-            <h4 className="testimonial-header">Петров василий</h4>        
+            <h4 className="testimonial-header">Петров Василий</h4>        
             <p className="testimonial-text">Обработка металла — это ключевой процесс в производстве, который требует высокой точности и профессионализма. Отличная работа, качественная обработка и соблюдение сроков. Рекомендую!</p>
           </div>
         </div>
