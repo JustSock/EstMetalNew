@@ -1,16 +1,20 @@
 {
   "files": {
     "main.css": "/JustSock/EstMetalNew/static/css/main.7320f6b9.css",
-    "main.js": "/JustSock/EstMetalNew/static/js/main.511cccf0.js",
+    "main.js": "/JustSock/EstMetalNew/static/js/main.7104f8a6.js",
     "static/js/488.49bc0a36.chunk.js": "/JustSock/EstMetalNew/static/js/488.49bc0a36.chunk.js",
     "static/media/Hero.png": "/JustSock/EstMetalNew/static/media/Hero.e13cb3b85cc3c89a92de.png",
+    "static/media/Cut.jpg": "/JustSock/EstMetalNew/static/media/Cut.6c07e5aed3bced214e39.jpg",
+    "static/media/manufacturing.jpg": "/JustSock/EstMetalNew/static/media/manufacturing.b93ef2728c5e7dbeca4c.jpg",
+    "static/media/delivery.jpg": "/JustSock/EstMetalNew/static/media/delivery.b0ecab952a13a586695c.jpg",
+    "static/media/product1.jpg": "/JustSock/EstMetalNew/static/media/product1.55ab0f36b0cfb893cb87.jpg",
     "index.html": "/JustSock/EstMetalNew/index.html",
     "main.7320f6b9.css.map": "/JustSock/EstMetalNew/static/css/main.7320f6b9.css.map",
-    "main.511cccf0.js.map": "/JustSock/EstMetalNew/static/js/main.511cccf0.js.map",
+    "main.7104f8a6.js.map": "/JustSock/EstMetalNew/static/js/main.7104f8a6.js.map",
     "488.49bc0a36.chunk.js.map": "/JustSock/EstMetalNew/static/js/488.49bc0a36.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7320f6b9.css",
-    "static/js/main.511cccf0.js"
+    "static/js/main.7104f8a6.js"
   ]
 }
