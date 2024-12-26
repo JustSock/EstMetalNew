@@ -1,20 +1,30 @@
 {
   "files": {
-    "main.css": "/EstMetalNew/static/css/main.7320f6b9.css",
-    "main.js": "/EstMetalNew/static/js/main.f4c72987.js",
+    "main.css": "/EstMetalNew/static/css/main.e2add527.css",
+    "main.js": "/EstMetalNew/static/js/main.fc954f8c.js",
     "static/js/488.49bc0a36.chunk.js": "/EstMetalNew/static/js/488.49bc0a36.chunk.js",
+    "static/media/product2.png": "/EstMetalNew/static/media/product2.2d5cd0db0d393baad0e5.png",
     "static/media/Hero.png": "/EstMetalNew/static/media/Hero.e13cb3b85cc3c89a92de.png",
+    "static/media/product6.png": "/EstMetalNew/static/media/product6.0a7fdb12fc48063a373d.png",
+    "static/media/product3.png": "/EstMetalNew/static/media/product3.f12cf59d32bbd631e1a7.png",
+    "static/media/product5.png": "/EstMetalNew/static/media/product5.9fd6f70111bc14fd757c.png",
     "static/media/Cut.jpg": "/EstMetalNew/static/media/Cut.6c07e5aed3bced214e39.jpg",
+    "static/media/product4.png": "/EstMetalNew/static/media/product4.2e41b33bf87d5fd447a8.png",
+    "static/media/review3.png": "/EstMetalNew/static/media/review3.007ebfb9b10b2db89a4a.png",
+    "static/media/review1.png": "/EstMetalNew/static/media/review1.ae47e7326f9d7c74cd17.png",
+    "static/media/vk.png": "/EstMetalNew/static/media/vk.5d689f4462230161df12.png",
     "static/media/manufacturing.jpg": "/EstMetalNew/static/media/manufacturing.b93ef2728c5e7dbeca4c.jpg",
     "static/media/delivery.jpg": "/EstMetalNew/static/media/delivery.b0ecab952a13a586695c.jpg",
+    "static/media/review2.png": "/EstMetalNew/static/media/review2.a8b06d1fa7e753726bc2.png",
+    "static/media/tg.png": "/EstMetalNew/static/media/tg.5fb5dfb87ac3e180e9f7.png",
     "static/media/product1.jpg": "/EstMetalNew/static/media/product1.55ab0f36b0cfb893cb87.jpg",
     "index.html": "/EstMetalNew/index.html",
-    "main.7320f6b9.css.map": "/EstMetalNew/static/css/main.7320f6b9.css.map",
-    "main.f4c72987.js.map": "/EstMetalNew/static/js/main.f4c72987.js.map",
+    "main.e2add527.css.map": "/EstMetalNew/static/css/main.e2add527.css.map",
+    "main.fc954f8c.js.map": "/EstMetalNew/static/js/main.fc954f8c.js.map",
     "488.49bc0a36.chunk.js.map": "/EstMetalNew/static/js/488.49bc0a36.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7320f6b9.css",
-    "static/js/main.f4c72987.js"
+    "static/css/main.e2add527.css",
+    "static/js/main.fc954f8c.js"
   ]
 }
